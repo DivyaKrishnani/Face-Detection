@@ -7,3 +7,5 @@ This project comprises of two parts:
 2.Detecting faces through a webcam
 
 Give the image in which faces is to be detected as argument while running face.py
+
+
